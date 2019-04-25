@@ -1,0 +1,29 @@
+﻿.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    list-style-type: none;
+}
+
+.navbar-nav li a:hover {
+    color: cornsilk;
+}
+
+.Employment {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.container-fluidF {
+    background-color: darkslategray;
+    color: cornsilk;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
